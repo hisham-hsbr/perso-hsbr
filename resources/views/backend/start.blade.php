@@ -9,9 +9,9 @@
 
 @section('main_content')
     <x-backend.layout_partials.card card_title="Dashboard" card_footer="ftr">
-        <h1>Hisham</h1>
+        <h1>Test</h1>
     </x-backend.layout_partials.card>
     <x-backend.layout_partials.card card_title="Dashboard" card_footer="ftr">
-        <h1>Hisham</h1>
+        <h1>Test</h1>
     </x-backend.layout_partials.card>
 @endsection
